@@ -1,0 +1,10 @@
+body {
+  background-image: url();
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+footer {
+  clear: both;
+  text-align: center;
+}
